@@ -1,0 +1,12 @@
+Kis Béla,G02,L01,E2
+Sági Barnabás,G01,L03,E1
+Vörös Noel,G03,L07,E2
+Biró Béla,G04,L08,E1
+Egyed Tibor,G01,L07,E1
+Németh Barnabás,G07,L09,E2
+Csatár Rebeka,G08,L01,E1
+Bogdán Erika,G03,L02,E2
+Deák Szimonetta,G09,L04,E1
+Balla Tamara,G02,L05,E1
+Jónás Blanka,G06,L05,E2
+Kis Ádám,L02,G02,E1
