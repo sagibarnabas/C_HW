@@ -1,5 +1,5 @@
 Kis Béla,G02,L01,E2
-Sági Barnabás,G01,L03,E1
+Jozsef Barnabás,G01,L03,E1
 Vörös Noel,G03,L07,E2
 Biró Béla,G04,L08,E1
 Egyed Tibor,G01,L07,E1
